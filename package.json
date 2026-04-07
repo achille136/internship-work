@@ -8,6 +8,7 @@
     "dev": "node index.js"
   },
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^4.21.0",
     "mysql2": "^3.11.0"
   }
